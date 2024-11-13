@@ -1,5 +1,5 @@
 # TZ_PrimitiveCurrency
-(RU) Калькулятор валют, работающий из консоли. Калькулятор работает с двумя валютами — доллар и рубль — и позволяет выполнять операции сложения и вычитания.
+(RU) Калькулятор валют, работающий из консоли. Калькулятор работает с двумя валютами — доллар и рубль — и позволяет выполнять операции сложения, вычитания, умножения и деления.
 
 Складывать и вычитать можно только значения в одной валюте, здесь реализована операция конвертации из одной валюты в другую по курсу, заданном во внешнем файле конфигурации.
 Поддерживаются целые и дробные значения.
@@ -8,7 +8,7 @@
 
 Операция конвертации долларов в рубли — toRubles(), рублей в доллары — toDollars().
 
-(EN) A console currency calculator. The calculator works with two currencies — the dollar and the ruble — and allows you to perform addition and subtraction operations.
+(EN) A console currency calculator. The calculator works with two currencies — the dollar and the ruble — and allows you to perform addition, subtraction, multiplication and division operations.
 
 You can add and subtract only values in one currency, you can convert from one currency to another at the exchange rate specified in the external configuration file.
 Integer and fractional values are supported.
